@@ -1,0 +1,60 @@
+/* Styling Box */
+.body {
+    margin-left: 50px;
+}
+
+.box1 {
+    width: 1250px;
+    height: 130px;
+    border: 1px solid black;
+    float: left;
+    margin: 39px;
+}
+
+.green {
+    background-color: rgb(103, 199, 103);
+}
+
+.box2 {
+    width: 220px;
+    height: 220px;
+    border: 1px solid black;
+    float: left;
+    margin: 3%;
+}
+
+.yellow {
+    background-color: rgb(245, 245, 83);
+}
+
+.box3 {
+    width: 943px;
+    height: 220px;
+    border: 1px solid black;
+    float: left;
+    margin: 3%;
+}
+
+.red {
+    background-color: rgb(161, 9, 9);
+}
+
+.box4 {
+    width: 220px;
+    height: 220px;
+    border: 1px solid black;
+    float: left;
+    margin: 3%;
+}
+
+.box5 {
+    width: 943px;
+    height: 220px;
+    border: 1px solid black;
+    float: left;
+    margin: 3%;
+}
+
+.blue {
+    background-color: rgb(90, 90, 255);
+}

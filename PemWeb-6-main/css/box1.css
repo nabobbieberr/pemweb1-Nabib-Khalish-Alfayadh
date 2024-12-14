@@ -1,0 +1,28 @@
+/* Styling Box */
+.body {
+    margin-left: 50px;
+}
+
+.box {
+    width: 250px;
+    height: 600px;
+    border: 1px solid black;
+    float: left;
+    margin: 39px;
+}
+
+.red {
+    background-color:  rgb(192, 89, 89);
+}
+
+.yellow {
+    background-color: rgb(233, 233, 89);
+}
+
+.green {
+    background-color: rgb(76, 167, 76);
+}
+
+.blue {
+    background-color: rgb(76, 76, 150);
+}
